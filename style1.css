@@ -1,0 +1,26 @@
+body{
+    background-color:#ff0000;
+}
+
+a:link{
+    color:#0000ff
+  }
+  
+  a:visited{
+    color:#0000ff
+  }
+  
+.jqwer{
+border:solid;
+}
+
+.jqwe{
+    display:flex;
+    justify-content:center;
+    font-size:40
+}
+
+.jqwert{
+    display:flex;
+    justify-content:space-evenly;
+}
